@@ -6,6 +6,7 @@ try {
 
 const jsonServer = require("json-server");
 const morgan = require("morgan");
+const express = require("express");
 
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
@@ -19,6 +20,9 @@ server.use((req, res, next) => {
   res.header("Access-Control-Allow-Origin", "*");
   next();
 });
+
+server.use(express.static("./assets"));
+
 server.use(router);
 
 server.listen(PORT, () => {

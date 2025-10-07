@@ -19,7 +19,7 @@
           "measure": "1 oz"
         }
       ],
-      "image": "/images/1.png"
+      "image": "http://localhost:5005/1.png"
     },
     {
       "id": "a3d5e8f2-1b4c-4d6e-8f9a-2c3d4e5f6a7b",
@@ -40,7 +40,7 @@
           "measure": "2 dashes"
         }
       ],
-      "image": "/images/2.png"
+      "image": "http://localhost:5005/2.png"
     },
     {
       "id": "b7c8d9e0-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
@@ -69,7 +69,7 @@
           "measure": "to top"
         }
       ],
-      "image": "/images/3.png"
+      "image": "http://localhost:5005/3.png"
     },
     {
       "id": "c9d0e1f2-3a4b-5c6d-7e8f-9a0b1c2d3e4f",
@@ -94,7 +94,7 @@
           "measure": "0.5 oz"
         }
       ],
-      "image": "/images/4.png"
+      "image": "http://localhost:5005/4.png"
     },
     {
       "id": "d1e2f3a4-5b6c-7d8e-9f0a-1b2c3d4e5f6a",
@@ -115,7 +115,7 @@
           "measure": "3 oz"
         }
       ],
-      "image": "/images/5.png"
+      "image": "http://localhost:5005/5.png"
     },
     {
       "id": "e3f4a5b6-7c8d-9e0f-1a2b-3c4d5e6f7a8b",
@@ -140,7 +140,7 @@
           "measure": "to top"
         }
       ],
-      "image": "/images/6.png"
+      "image": "http://localhost:5005/6.png"
     },
     {
       "id": "f5a6b7c8-9d0e-1f2a-3b4c-5d6e7f8a9b0c",
@@ -157,7 +157,7 @@
           "measure": "0.5 oz"
         }
       ],
-      "image": "/images/7.png"
+      "image": "http://localhost:5005/7.png"
     },
     {
       "id": "a7b8c9d0-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
@@ -182,7 +182,7 @@
           "measure": "1 tsp"
         }
       ],
-      "image": "/images/8.png"
+      "image": "http://localhost:5005/8.png"
     },
     {
       "id": "b9c0d1e2-3f4a-5b6c-7d8e-9f0a1b2c3d4e",
@@ -207,7 +207,7 @@
           "measure": "to top"
         }
       ],
-      "image": "/images/9.png"
+      "image": "http://localhost:5005/9.png"
     },
     {
       "id": "c1d2e3f4-5a6b-7c8d-9e0f-1a2b3c4d5e6f",
@@ -224,7 +224,7 @@
           "measure": "2 oz"
         }
       ],
-      "image": "/images/10.png"
+      "image": "http://localhost:5005/10.png"
     },
     {
       "id": "d3e4f5a6-7b8c-9d0e-1f2a-3b4c5d6e7f8a",
@@ -245,7 +245,7 @@
           "measure": "0.5 oz"
         }
       ],
-      "image": "/images/11.png"
+      "image": "http://localhost:5005/11.png"
     },
     {
       "id": "12",
@@ -275,7 +275,7 @@
           "measure": "2 dashes"
         }
       ],
-      "image": "/images/12.png"
+      "image": "http://localhost:5005/12.png"
     },
     {
       "id": "13",
@@ -298,7 +298,7 @@
           "measure": "0.5 oz"
         }
       ],
-      "image": "/images/13.png"
+      "image": "http://localhost:5005/13.png"
     },
     {
       "id": "14",
@@ -328,7 +328,7 @@
           "measure": "0.25 oz"
         }
       ],
-      "image": "/images/14.png"
+      "image": "http://localhost:5005/14.png"
     },
     {
       "id": "15",
@@ -346,7 +346,7 @@
           "measure": "4 oz"
         }
       ],
-      "image": "/images/15.png"
+      "image": "http://localhost:5005/15.png"
     },
     {
       "id": "16",
@@ -372,7 +372,7 @@
           "measure": "to fill"
         }
       ],
-      "image": "/images/16.png"
+      "image": "http://localhost:5005/16.png"
     },
     {
       "id": "17",
@@ -394,7 +394,7 @@
           "measure": "1 oz"
         }
       ],
-      "image": "/images/17.png"
+      "image": "http://localhost:5005/17.png"
     },
     {
       "id": "18",
@@ -416,7 +416,7 @@
           "measure": "2 oz"
         }
       ],
-      "image": "/images/18.png"
+      "image": "http://localhost:5005/18.png"
     },
     {
       "id": "19",
@@ -438,7 +438,7 @@
           "measure": "2 tsp"
         }
       ],
-      "image": "/images/19.png"
+      "image": "http://localhost:5005/19.png"
     },
     {
       "id": "20",
@@ -460,7 +460,7 @@
           "measure": "4 oz"
         }
       ],
-      "image": "/images/20.png"
+      "image": "http://localhost:5005/20.png"
     },
     {
       "id": "26e7a44e-8622-4df4-9910-f620fc6dcce8",
