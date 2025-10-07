@@ -6,9 +6,18 @@
       "alcoholic": true,
       "instructions": "Shake tequila, triple sec, and lime juice with ice. Strain into a salt-rimmed chilled glass. Garnish with lime.",
       "ingredients": [
-        { "ingredient": "Tequila", "measure": "2 oz" },
-        { "ingredient": "Triple sec", "measure": "1 oz" },
-        { "ingredient": "Lime juice", "measure": "1 oz" }
+        {
+          "ingredient": "Tequila",
+          "measure": "2 oz"
+        },
+        {
+          "ingredient": "Triple sec",
+          "measure": "1 oz"
+        },
+        {
+          "ingredient": "Lime juice",
+          "measure": "1 oz"
+        }
       ],
       "image": "/images/1.png"
     },
@@ -18,9 +27,18 @@
       "alcoholic": true,
       "instructions": "Muddle sugar with bitters and splash of water. Add bourbon and ice, stir until chilled. Express orange twist over drink.",
       "ingredients": [
-        { "ingredient": "Bourbon", "measure": "2 oz" },
-        { "ingredient": "Sugar", "measure": "1 tsp" },
-        { "ingredient": "Angostura bitters", "measure": "2 dashes" }
+        {
+          "ingredient": "Bourbon",
+          "measure": "2 oz"
+        },
+        {
+          "ingredient": "Sugar",
+          "measure": "1 tsp"
+        },
+        {
+          "ingredient": "Angostura bitters",
+          "measure": "2 dashes"
+        }
       ],
       "image": "/images/2.png"
     },
@@ -30,11 +48,26 @@
       "alcoholic": true,
       "instructions": "Muddle mint with sugar and lime juice. Add rum and ice, top with soda water. Gently stir. Garnish with mint sprig.",
       "ingredients": [
-        { "ingredient": "White rum", "measure": "2 oz" },
-        { "ingredient": "Lime juice", "measure": "1 oz" },
-        { "ingredient": "Sugar", "measure": "2 tsp" },
-        { "ingredient": "Mint leaves", "measure": "6 leaves" },
-        { "ingredient": "Soda water", "measure": "to top" }
+        {
+          "ingredient": "White rum",
+          "measure": "2 oz"
+        },
+        {
+          "ingredient": "Lime juice",
+          "measure": "1 oz"
+        },
+        {
+          "ingredient": "Sugar",
+          "measure": "2 tsp"
+        },
+        {
+          "ingredient": "Mint leaves",
+          "measure": "6 leaves"
+        },
+        {
+          "ingredient": "Soda water",
+          "measure": "to top"
+        }
       ],
       "image": "/images/3.png"
     },
@@ -44,10 +77,22 @@
       "alcoholic": true,
       "instructions": "Shake vodka, triple sec, cranberry and lime juice with ice. Strain into a chilled glass. Garnish with lime wheel.",
       "ingredients": [
-        { "ingredient": "Vodka", "measure": "1.5 oz" },
-        { "ingredient": "Triple sec", "measure": "1 oz" },
-        { "ingredient": "Cranberry juice", "measure": "0.5 oz" },
-        { "ingredient": "Lime juice", "measure": "0.5 oz" }
+        {
+          "ingredient": "Vodka",
+          "measure": "1.5 oz"
+        },
+        {
+          "ingredient": "Triple sec",
+          "measure": "1 oz"
+        },
+        {
+          "ingredient": "Cranberry juice",
+          "measure": "0.5 oz"
+        },
+        {
+          "ingredient": "Lime juice",
+          "measure": "0.5 oz"
+        }
       ],
       "image": "/images/4.png"
     },
@@ -57,9 +102,18 @@
       "alcoholic": true,
       "instructions": "Blend rum, coconut cream, and pineapple juice with ice until smooth. Pour into a chilled glass. Garnish with pineapple wedge and cherry.",
       "ingredients": [
-        { "ingredient": "White rum", "measure": "1.5 oz" },
-        { "ingredient": "Coconut cream", "measure": "2 oz" },
-        { "ingredient": "Pineapple juice", "measure": "3 oz" }
+        {
+          "ingredient": "White rum",
+          "measure": "1.5 oz"
+        },
+        {
+          "ingredient": "Coconut cream",
+          "measure": "2 oz"
+        },
+        {
+          "ingredient": "Pineapple juice",
+          "measure": "3 oz"
+        }
       ],
       "image": "/images/5.png"
     },
@@ -69,10 +123,22 @@
       "alcoholic": false,
       "instructions": "Muddle mint leaves and sugar with lime juice. Add ice and top with soda water. Stir gently. Garnish with mint sprig.",
       "ingredients": [
-        { "ingredient": "Lime juice", "measure": "1 oz" },
-        { "ingredient": "Sugar", "measure": "2 tsp" },
-        { "ingredient": "Mint leaves", "measure": "6 leaves" },
-        { "ingredient": "Soda water", "measure": "to top" }
+        {
+          "ingredient": "Lime juice",
+          "measure": "1 oz"
+        },
+        {
+          "ingredient": "Sugar",
+          "measure": "2 tsp"
+        },
+        {
+          "ingredient": "Mint leaves",
+          "measure": "6 leaves"
+        },
+        {
+          "ingredient": "Soda water",
+          "measure": "to top"
+        }
       ],
       "image": "/images/6.png"
     },
@@ -82,8 +148,14 @@
       "alcoholic": false,
       "instructions": "Fill glass with ice. Add ginger ale and a splash of grenadine. Stir gently. Garnish with maraschino cherry.",
       "ingredients": [
-        { "ingredient": "Ginger ale", "measure": "4 oz" },
-        { "ingredient": "Grenadine", "measure": "0.5 oz" }
+        {
+          "ingredient": "Ginger ale",
+          "measure": "4 oz"
+        },
+        {
+          "ingredient": "Grenadine",
+          "measure": "0.5 oz"
+        }
       ],
       "image": "/images/7.png"
     },
@@ -93,10 +165,22 @@
       "alcoholic": false,
       "instructions": "Blend mango, yogurt, milk, sugar, and ice until smooth. Serve chilled.",
       "ingredients": [
-        { "ingredient": "Mango puree", "measure": "4 oz" },
-        { "ingredient": "Yogurt", "measure": "2 oz" },
-        { "ingredient": "Milk", "measure": "2 oz" },
-        { "ingredient": "Sugar", "measure": "1 tsp" }
+        {
+          "ingredient": "Mango puree",
+          "measure": "4 oz"
+        },
+        {
+          "ingredient": "Yogurt",
+          "measure": "2 oz"
+        },
+        {
+          "ingredient": "Milk",
+          "measure": "2 oz"
+        },
+        {
+          "ingredient": "Sugar",
+          "measure": "1 tsp"
+        }
       ],
       "image": "/images/8.png"
     },
@@ -106,10 +190,22 @@
       "alcoholic": true,
       "instructions": "Shake gin, lemon juice, and sugar with ice. Strain into glass filled with ice. Top with soda water. Garnish with lemon slice and cherry.",
       "ingredients": [
-        { "ingredient": "Gin", "measure": "2 oz" },
-        { "ingredient": "Lemon juice", "measure": "1 oz" },
-        { "ingredient": "Sugar", "measure": "1 tsp" },
-        { "ingredient": "Soda water", "measure": "to top" }
+        {
+          "ingredient": "Gin",
+          "measure": "2 oz"
+        },
+        {
+          "ingredient": "Lemon juice",
+          "measure": "1 oz"
+        },
+        {
+          "ingredient": "Sugar",
+          "measure": "1 tsp"
+        },
+        {
+          "ingredient": "Soda water",
+          "measure": "to top"
+        }
       ],
       "image": "/images/9.png"
     },
@@ -119,8 +215,14 @@
       "alcoholic": false,
       "instructions": "Blend pineapple juice, coconut cream, and ice until smooth. Pour into glass. Garnish with pineapple wedge and cherry.",
       "ingredients": [
-        { "ingredient": "Pineapple juice", "measure": "3 oz" },
-        { "ingredient": "Coconut cream", "measure": "2 oz" }
+        {
+          "ingredient": "Pineapple juice",
+          "measure": "3 oz"
+        },
+        {
+          "ingredient": "Coconut cream",
+          "measure": "2 oz"
+        }
       ],
       "image": "/images/10.png"
     },
@@ -130,11 +232,252 @@
       "alcoholic": true,
       "instructions": "Shake bourbon, lemon juice, and simple syrup with ice. Strain into a glass with ice. Garnish with cherry and orange slice.",
       "ingredients": [
-        { "ingredient": "Bourbon", "measure": "2 oz" },
-        { "ingredient": "Lemon juice", "measure": "1 oz" },
-        { "ingredient": "Simple syrup", "measure": "0.5 oz" }
+        {
+          "ingredient": "Bourbon",
+          "measure": "2 oz"
+        },
+        {
+          "ingredient": "Lemon juice",
+          "measure": "1 oz"
+        },
+        {
+          "ingredient": "Simple syrup",
+          "measure": "0.5 oz"
+        }
       ],
       "image": "/images/11.png"
+    },
+    {
+      "id": "12",
+      "name": "Bloody Mary",
+      "category": "Cocktail",
+      "alcoholic": true,
+      "instructions": "Stir vodka, tomato juice, lemon juice, and seasonings with ice. Garnish with celery stalk and lemon wedge.",
+      "ingredients": [
+        {
+          "ingredient": "Vodka",
+          "measure": "1.5 oz"
+        },
+        {
+          "ingredient": "Tomato juice",
+          "measure": "3 oz"
+        },
+        {
+          "ingredient": "Lemon juice",
+          "measure": "0.5 oz"
+        },
+        {
+          "ingredient": "Worcestershire sauce",
+          "measure": "2 dashes"
+        },
+        {
+          "ingredient": "Tabasco sauce",
+          "measure": "2 dashes"
+        }
+      ],
+      "image": "/images/12.png"
+    },
+    {
+      "id": "13",
+      "name": "Cuba Libre",
+      "category": "Cocktail",
+      "alcoholic": true,
+      "glass": "Highball glass",
+      "instructions": "Pour rum and lime juice over ice. Top with cola and stir. Garnish with lime wedge.",
+      "ingredients": [
+        {
+          "ingredient": "Light rum",
+          "measure": "2 oz"
+        },
+        {
+          "ingredient": "Cola",
+          "measure": "4 oz"
+        },
+        {
+          "ingredient": "Lime juice",
+          "measure": "0.5 oz"
+        }
+      ],
+      "image": "/images/13.png"
+    },
+    {
+      "id": "14",
+      "name": "Mai Tai",
+      "category": "Cocktail",
+      "alcoholic": true,
+      "instructions": "Shake all ingredients with ice and strain into glass over crushed ice. Garnish with mint sprig and lime wheel.",
+      "ingredients": [
+        {
+          "ingredient": "White rum",
+          "measure": "1 oz"
+        },
+        {
+          "ingredient": "Dark rum",
+          "measure": "1 oz"
+        },
+        {
+          "ingredient": "Orange curaçao",
+          "measure": "0.5 oz"
+        },
+        {
+          "ingredient": "Lime juice",
+          "measure": "0.5 oz"
+        },
+        {
+          "ingredient": "Orgeat syrup",
+          "measure": "0.25 oz"
+        }
+      ],
+      "image": "/images/14.png"
+    },
+    {
+      "id": "15",
+      "name": "Gin and Tonic",
+      "category": "Cocktail",
+      "alcoholic": true,
+      "instructions": "Fill glass with ice. Pour gin, top with tonic water, and gently stir. Garnish with lime wedge.",
+      "ingredients": [
+        {
+          "ingredient": "Gin",
+          "measure": "2 oz"
+        },
+        {
+          "ingredient": "Tonic water",
+          "measure": "4 oz"
+        }
+      ],
+      "image": "/images/15.png"
+    },
+    {
+      "id": "16",
+      "name": "Strawberry Lemonade",
+      "category": "Mocktail",
+      "alcoholic": false,
+      "instructions": "Blend strawberries with lemon juice, sugar, and water. Serve over ice and garnish with lemon slice.",
+      "ingredients": [
+        {
+          "ingredient": "Strawberries",
+          "measure": "4 oz"
+        },
+        {
+          "ingredient": "Lemon juice",
+          "measure": "1 oz"
+        },
+        {
+          "ingredient": "Sugar",
+          "measure": "1 tbsp"
+        },
+        {
+          "ingredient": "Water",
+          "measure": "to fill"
+        }
+      ],
+      "image": "/images/16.png"
+    },
+    {
+      "id": "17",
+      "name": "Negroni",
+      "category": "Cocktail",
+      "alcoholic": true,
+      "instructions": "Stir gin, Campari, and sweet vermouth with ice until chilled. Strain into glass with ice. Garnish with orange peel.",
+      "ingredients": [
+        {
+          "ingredient": "Gin",
+          "measure": "1 oz"
+        },
+        {
+          "ingredient": "Campari",
+          "measure": "1 oz"
+        },
+        {
+          "ingredient": "Sweet vermouth",
+          "measure": "1 oz"
+        }
+      ],
+      "image": "/images/17.png"
+    },
+    {
+      "id": "18",
+      "name": "Apple Fizz",
+      "category": "Mocktail",
+      "alcoholic": false,
+      "instructions": "Combine apple juice and lemon juice over ice. Top with club soda. Stir and garnish with apple slice.",
+      "ingredients": [
+        {
+          "ingredient": "Apple juice",
+          "measure": "3 oz"
+        },
+        {
+          "ingredient": "Lemon juice",
+          "measure": "0.5 oz"
+        },
+        {
+          "ingredient": "Club soda",
+          "measure": "2 oz"
+        }
+      ],
+      "image": "/images/18.png"
+    },
+    {
+      "id": "19",
+      "name": "Caipirinha",
+      "category": "Cocktail",
+      "alcoholic": true,
+      "instructions": "Muddle lime wedges with sugar. Fill glass with crushed ice. Add cachaça and stir well.",
+      "ingredients": [
+        {
+          "ingredient": "Cachaça",
+          "measure": "2 oz"
+        },
+        {
+          "ingredient": "Lime",
+          "measure": "1 whole, cut into wedges"
+        },
+        {
+          "ingredient": "Sugar",
+          "measure": "2 tsp"
+        }
+      ],
+      "image": "/images/19.png"
+    },
+    {
+      "id": "20",
+      "name": "Blue Lagoon",
+      "category": "Cocktail",
+      "alcoholic": true,
+      "instructions": "Shake vodka, blue curaçao, and lemonade with ice. Strain into glass with ice. Garnish with lemon slice.",
+      "ingredients": [
+        {
+          "ingredient": "Vodka",
+          "measure": "1 oz"
+        },
+        {
+          "ingredient": "Blue curaçao",
+          "measure": "1 oz"
+        },
+        {
+          "ingredient": "Lemonade",
+          "measure": "4 oz"
+        }
+      ],
+      "image": "/images/20.png"
+    },
+    {
+      "id": "26e7a44e-8622-4df4-9910-f620fc6dcce8",
+      "name": "sunrise",
+      "alcoholic": true,
+      "image": "https://www.google.com/imgres?q=sunrise%20cocktail&imgurl=https%3A%2F%2Fwww.allrecipes.com%2Fthmb%2FzL0-Fqh_E_Z9vuMMhiV8hbNumTc%3D%2F1500x0%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2F222510-Tequila-Sunrise-Cocktail-ddmfs-4x3-0872-7ddefb6ec8ed40d0930e5b92f178e2cf.jpg&imgrefurl=https%3A%2F%2Fwww.allrecipes.com%2Frecipe%2F222510%2Ftequila-sunrise-cocktail%2F&docid=PsNomRMt6U6tOM&tbnid=lxuftUmeoUbhdM&vet=12ahUKEwi7r6emtJKQAxUXJkQIHZ42PZAQM3oECBgQAA..i&w=1500&h=1125&hcb=2&ved=2ahUKEwi7r6emtJKQAxUXJkQIHZ42PZAQM3oECBgQAA",
+      "instructions": "fegtwtgete",
+      "ingredients": [
+        {
+          "ingredient": "wqfrr",
+          "measure": "wrF"
+        },
+        {
+          "ingredient": "Wefd",
+          "measure": "efe"
+        }
+      ]
     }
   ]
 }
